@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "annalesacademia00goog_0141.png"; bbox 0 0 4509 5875; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 771 1873 987 1956">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 771 1873 987 1956">
+     <span class='ocr_line' id='line_1_1' title="bbox 771 1873 987 1956; baseline 0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 771 1921 776 1956; x_wconf 82' lang='lat'><strong>.·</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 943 1873 987 1942; x_wconf 80' lang='lat' dir='ltr'><strong>V·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 484 2121 1392 2339">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 484 2121 1392 2339">
+     <span class='ocr_line' id='line_1_2' title="bbox 484 2121 1392 2339; baseline 0.002 -2"><span class='ocrx_word' id='word_1_3' title='bbox 484 2121 1392 2339; x_wconf 77' lang='lat' dir='ltr'><strong>“STATUTA·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 677 2571 1237 2684">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 677 2571 1237 2684">
+     <span class='ocr_line' id='line_1_3' title="bbox 677 2571 1237 2684; baseline 0.002 -9"><span class='ocrx_word' id='word_1_4' title='bbox 677 2571 1237 2684; x_wconf 87' lang='lat' dir='ltr'>BIBLIOTHECAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 394 2901 1527 3051">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 394 2901 1527 3051">
+     <span class='ocr_line' id='line_1_4' title="bbox 394 2901 1527 3051; baseline -0.001 -29"><span class='ocrx_word' id='word_1_5' title='bbox 394 2901 897 3023; x_wconf 83' lang='lat' dir='ltr'><strong>ACADEMIAE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 928 2901 1527 3051; x_wconf 79' lang='lat' dir='ltr'><strong>LOVANIENSIS‚</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 839 3209 1255 3263">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 839 3209 1255 3263">
+     <span class='ocr_line' id='line_1_5' title="bbox 839 3209 1255 3263; baseline -0.002 -1"><span class='ocrx_word' id='word_1_7' title='bbox 839 3212 893 3262; x_wconf 73' lang='lat' dir='ltr'><strong>1)OE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 910 3212 968 3259; x_wconf 77' lang='lat' dir='ltr'><strong>Vm</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 985 3210 1063 3261; x_wconf 75' lang='lat' dir='ltr'><strong>Auo.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1082 3209 1255 3263; x_wconf 72' lang='lat' dir='ltr'>HDOCOEX</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 832 3432 1112 3535">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 832 3432 1112 3535">
+     <span class='ocr_line' id='line_1_6' title="bbox 832 3432 1112 3535; baseline -0.011 -22"><span class='ocrx_word' id='word_1_11' title='bbox 832 3432 1112 3535; x_wconf 71' lang='lat' dir='ltr'><strong>DECRETA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 2260 5875">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 0 2260 5875">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 2260 5875; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2260 5875; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
